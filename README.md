@@ -143,3 +143,9 @@ Pandas Guide
 ## 04.11.2024
 American Sign Language Detector
 
+## 05.11.2024
+Car Counter Project
+
+## 06.11.2024
+Swin Transformer for single image
+
